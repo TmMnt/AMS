@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "RM_bati_beaulieu_labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "batiment": "2a", "batiment_u": "Amphithéâtres A, B ,C, D, E, Louis-Antoine, Hall des examens" }, "geometry": { "type": "Point", "coordinates": [ -1.637706516631576, 48.116380791167842 ] } },
+{ "type": "Feature", "properties": { "id": 6, "batiment": "2b", "batiment_u": "TP informatique" }, "geometry": { "type": "Point", "coordinates": [ -1.63804462756008, 48.116105851027427 ] } },
+{ "type": "Feature", "properties": { "id": 7, "batiment": "3 - 4", "batiment_u": "TP zoologie et botanique, Collections et musée de zoologie" }, "geometry": { "type": "Point", "coordinates": [ -1.636830906184392, 48.116618397290878 ] } },
+{ "type": "Feature", "properties": { "id": 8, "batiment": "5", "batiment_u": "TP géologie et électronique, Collections et musée de géologie" }, "geometry": { "type": "Point", "coordinates": [ -1.63619786722986, 48.116728023940922 ] } },
+{ "type": "Feature", "properties": { "id": 9, "batiment": "5a", "batiment_u": "Salles d'enseignement, IUT GEA" }, "geometry": { "type": "Point", "coordinates": [ -1.63571263034486, 48.11645070221612 ] } },
+{ "type": "Feature", "properties": { "id": 10, "batiment": "6", "batiment_u": "TP physique et électronique" }, "geometry": { "type": "Point", "coordinates": [ -1.635564070363133, 48.116935675361098 ] } },
+{ "type": "Feature", "properties": { "id": 11, "batiment": "7", "batiment_u": "TP chimie" }, "geometry": { "type": "Point", "coordinates": [ -1.634925241260235, 48.116979677595602 ] } },
+{ "type": "Feature", "properties": { "id": 16, "batiment": "8a", "batiment_u": "IUT Carrières sociales, IUT GEA, Salles d'examen, SMUT" }, "geometry": { "type": "Point", "coordinates": [ -1.635474136794332, 48.116286198394647 ] } },
+{ "type": "Feature", "properties": { "id": 24, "batiment": "8b", "batiment_u": "Bibliothèque Paul Le Bohec, Salle Condorcet" }, "geometry": { "type": "Point", "coordinates": [ -1.635908498093902, 48.115799396001677 ] } },
+{ "type": "Feature", "properties": { "id": 26, "batiment": "1a", "batiment_u": "Accueil - Administration, scolarité sciences, UFR SPM" }, "geometry": { "type": "Point", "coordinates": [ -1.637066782581927, 48.115613445180564 ] } },
+{ "type": "Feature", "properties": { "id": 28, "batiment": "9a", "batiment_u": "Pôle image et réseaux, Salle immersive Inria, Salle visioconférence" }, "geometry": { "type": "Point", "coordinates": [ -1.640670621618265, 48.11473043586318 ] } },
+{ "type": "Feature", "properties": { "id": 29, "batiment": "9b", "batiment_u": "PNRB - Pôle numérique Rennes Beaulieu, Suptice, DARI" }, "geometry": { "type": "Point", "coordinates": [ -1.640442285055765, 48.114322741407477 ] } },
+{ "type": "Feature", "properties": { "id": 33, "batiment": "10a", "batiment_u": "ISCR - Institut des sciences chimiques de Rennes" }, "geometry": { "type": "Point", "coordinates": [ -1.639627763820412, 48.11555442986738 ] } },
+{ "type": "Feature", "properties": { "id": 37, "batiment": "10b", "batiment_u": "ISCR - Institut des sciences chimiques de Rennes, Amphithéâtre Daniel Grandjean" }, "geometry": { "type": "Point", "coordinates": [ -1.64033070001492, 48.115816581316473 ] } },
+{ "type": "Feature", "properties": { "id": 38, "batiment": "10c", "batiment_u": "ISCR - Institut des sciences chimiques de Rennes" }, "geometry": { "type": "Point", "coordinates": [ -1.64001114420342, 48.115303414523538 ] } },
+{ "type": "Feature", "properties": { "id": 41, "batiment": "11a", "batiment_u": "IPR - Institut de physique de Rennes, CRMPO" }, "geometry": { "type": "Point", "coordinates": [ -1.640394789409844, 48.116458723355073 ] } },
+{ "type": "Feature", "properties": { "id": 43, "batiment": "11b", "batiment_u": "IPR - Institut de physique de Rennes, IETR" }, "geometry": { "type": "Point", "coordinates": [ -1.640652596944301, 48.116896535758301 ] } }
+]
+}
